@@ -5,9 +5,9 @@
 [Mobile Game](https://github.com/grigorevmp/LocationGame), 
 [Diffrent small projects](https://github.com/grigorevmp/Different-projects)
 
-- 🌱 I’m currently learning Kotlin, C++, ML
+- 🌱 I’m currently learning `Kotlin`, `C++`, `ML`
+- ⚡ Already well-learned languages: `Python`, `C`, `Assembly`
 - 📫 How to reach me: [Telegram](https://t.me/grigorevmp)
-
 <!--
 **grigorevmp/grigorevmp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
