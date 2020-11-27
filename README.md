@@ -1,9 +1,11 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on
-[Quick Pass - Password Manager](https://github.com/grigorevmp/QuickPass-Mobile-Password-manager), 
+[Go game bot](https://github.com/grigorevmp/gammaGo), 
 [Mobile Game](https://github.com/grigorevmp/LocationGame), 
-[Diffrent small projects](https://github.com/grigorevmp/Different-projects)
+[Quick Pass - Password Manager](https://github.com/grigorevmp/QuickPass-Mobile-Password-manager), 
+[Railway detector](https://github.com/grigorevmp/Railway_recognition)
+
 
 - 🌱 I’m currently learning `Kotlin`, `C++`, `ML`
 - ⚡ Already well-learned languages: `Python`, `C`, `Assembly`
