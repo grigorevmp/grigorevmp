@@ -1,10 +1,16 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on
+[Paranoid VPN](https://github.com/Usvel/ParanoidVpnApp), 
 [Quick Pass - Password Manager](https://github.com/grigorevmp/QuickPass-Mobile-Password-manager), 
-[Railway detector](https://github.com/grigorevmp/Railway_recognition)
 
 
-- 🌱 I’m currently learning `Kotlin`, `ML`
+- 🌱 I’m currently learning `Kotlin`
 - ⚡ Already well-learned languages: `Python`, `C`, `Assembly`, `C++`
 - 📫 How to reach me: [Telegram](https://t.me/grigorevmp)
+- 😎 [Here's my resume](https://docs.google.com/document/d/1mv_vGcYl5osJJkbbgTagEG_kvja1SqY32KoV8397wqg/edit?usp=sharing)
+
+
+<a href="https://github.com/grigorevmp">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=grigorevmp&show_icons=true&theme=dark&line_height=27" alt="grigorevmp's github stats"/>
+</a>
