@@ -3,11 +3,10 @@
 I'm Mikhail, NRNU MEPhI student, 21 y.o.
 
 - 🔭 I’m currently working on
-[Quick Pass - Password Manager](https://github.com/grigorevmp/QuickPass-Mobile-Password-manager), 
-[Paranoid VPN](https://github.com/Usvel/ParanoidVpnApp) [FREEZE], 
+[Planet To-do app](https://github.com/grigorevmp/QuickPass-Mobile-Password-manager)
 
 
-- 🌱 I’m currently learning  `Flutter (Dart)`, `Arduino programming`
+- 🌱 I’m currently learning  `Advanced Kotlin`,  `Flutter (Dart)`, `Arduino programming`
 - ⚡ Already well-learned languages: `Kotlin and mobile development`, `Python`, `Assembly`, `C`, `C++`
 - 📫 How to reach me: [Telegram](https://t.me/grigorevmp)
 - 😎 [Here's my resume](https://docs.google.com/document/d/1mv_vGcYl5osJJkbbgTagEG_kvja1SqY32KoV8397wqg/edit?usp=sharing)
